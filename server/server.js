@@ -3,7 +3,7 @@ let app = express()
 let PORT = 9000
 
 
-
+app.get()
 
 
 
